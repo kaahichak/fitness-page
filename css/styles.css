@@ -1,0 +1,27 @@
+
+
+body {
+  background-color:#D6EFED;
+
+}
+
+hr {
+ background-color: lightgray;
+ border-style: groove none none;
+ width: 10%;
+}
+
+h1 {
+
+  color: #395B64;
+}
+
+h3 {
+
+  color: #A5C9CA;
+}
+
+p {
+
+  color: #2C3333;
+}
